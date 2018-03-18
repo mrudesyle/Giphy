@@ -1,0 +1,19 @@
+body.myGrid {
+    background-color: #e6e6e6;
+  }
+
+  .row.row-1 {
+    max-width: 986px;
+    background-image: url('../images/star-wars-wallpaper-17.jpg')
+  }
+
+  h1{
+      background-color: coral;
+  }
+
+  button,
+        div,
+        form,
+        input {
+            margin: 10px;
+        }
